@@ -1,5 +1,5 @@
 # MACHINE-LEARNING-PROJECTS
-it consists of all projects related to our 100 days machine learning course
+This repository demonstrates my understanding of data preprocessing, model building, evaluation, and real-world problem solving. 
 <br>
 author-ashish dash
 </br>
